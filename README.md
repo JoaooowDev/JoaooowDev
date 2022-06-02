@@ -1,7 +1,7 @@
 ## Olá, me chamo João Victor, estudante de Sistemas de Informação!
 
 <div align="center">
-  <a href="https://github.com/Joaooow">
+  <a href="https://github.com/JoaooowDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaooow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaooow&layout=compact&langs_count=7&theme=dark"/>
 </div>
