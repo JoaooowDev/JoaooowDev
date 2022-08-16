@@ -1,6 +1,5 @@
 # Olá, eu sou o João Oliveira 👋
 
-
 - 📖 Estudante de Sistemas de Informação
 - 📚 Estudando JavaScript
 - 📬 Contate-me no email: joaovictor.oliveira290502@gmail.com
