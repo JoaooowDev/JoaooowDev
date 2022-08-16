@@ -1,4 +1,3 @@
-<center>
 # Olá, eu sou o João Oliveira 👋
 
 
@@ -30,5 +29,5 @@
   </div>
   <br>
   <br>
- </center>
+  
   ![Snake animation](https://github.com/JoaooowDev/JoaooowDev/blob/output/github-contribution-grid-snake.svg)
