@@ -1,6 +1,6 @@
 # Olá, eu sou o João Oliveira 👋
 
-- 📖 Estudante de Sistemas de Informação
+- 📖 Estudante de Sistemas de Informação 5/8 - UNIP
 - 📬 Contate-me no email: joaovictor.oliveira290502@gmail.com
 <br>
 
@@ -13,7 +13,7 @@
 ## Linguagens, Frameworks e Ferramentas:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,git,css,figma,nodejs,sass" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=dotnet,js,html,git,css,figma,nodejs,sass" style="max-width: 100%;">
 </div>
 <br>
   
@@ -27,5 +27,3 @@
   </div>
   <br>
   <br>
-  
-  ![Snake animation](https://github.com/JoaooowDev/JoaooowDev/blob/output/github-contribution-grid-snake.svg)
