@@ -13,7 +13,7 @@
 ## Linguagens, Frameworks e Ferramentas:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=dotnet,js,html,git,css,figma,nodejs,sass" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,js,html,git,css,figma,nodejs,sass" style="max-width: 100%;">
 </div>
 <br>
   
