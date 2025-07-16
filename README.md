@@ -13,8 +13,6 @@ Hello! My name is João Oliveira, and I work as a back-end developer with one ye
 <div align = "center">
   <img src = "https://skillicons.dev/icons?i=python" height = "40" alt = "python logo" />
   <img width = "12" />
-  <img src = "https://skillicons.dev/icons?i=c#" height = "40" alt = "c# logo" />
-  <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=aws" height = "40" alt = "aws logo" />
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=js" height = "40" alt = "javascript logo" />
